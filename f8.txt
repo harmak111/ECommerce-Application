@@ -1,0 +1,21 @@
+20
+iphone 50000 phones 50 5
+blackberry 20000 phones 20 1 
+samsung 30000 phones 30 3
+Lg 35000 tv 15 2
+sony 40000 tv 30 2
+philips 20000 tv 5 2
+casio 10000 watches 13 10
+fasttrack 1000 watches 25 4
+titan 7000 watches 20 3
+dc 15000 shoes 12 4
+nike 10000 shoes 20 2
+adidas 8000 shoes 15 3
+Thewalk 200 generalbooks 2 3
+dell 30000 laptops 20 3
+lenevo 25000 laptops 15 4
+apple 50000 laptops 25 5
+US-polo 200 shirts 20 12
+peterEngland 300 shirts 23 15
+transced 100 pendrives 21 20
+sherlock-holmes 400 generalbooks 23 10
